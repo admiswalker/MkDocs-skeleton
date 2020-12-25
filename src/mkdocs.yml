@@ -4,7 +4,7 @@ theme:
     palette:
         primary: black
         accent: red
-    custom_dir: 'custom_dir'
+    custom_dir: docs/custom_dir
 extra:
     search:
         language: 'jp'
